@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122060068298",
+    "firebase_url": "https://facelinkv1-5e282-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "facelinkv1-5e282",
+    "storage_bucket": "facelinkv1-5e282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122060068298:android:ad3926375bc0947d10ab33",
+        "android_client_info": {
+          "package_name": "com.mobile.facelinkV1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122060068298-hq2aaqi6vppqbt8qfnqbf53s2c3082o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.facelinkV1",
+            "certificate_hash": "e77f7e9d849790e69acb954b216015474734bf6d"
+          }
+        },
+        {
+          "client_id": "122060068298-en52rs8m2avnh3avkam17ocfs3b59b8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMeqhipDn3yNZFI9V0c1j592AWgNPdsmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122060068298-en52rs8m2avnh3avkam17ocfs3b59b8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

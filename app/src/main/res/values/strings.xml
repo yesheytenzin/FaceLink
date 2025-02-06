@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceLink</string>
+    <string name="fab_description">logout button\n</string>
+</resources>
