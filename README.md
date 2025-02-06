@@ -33,6 +33,9 @@ git clone https://github.com/yesheytenzin/FaceLink.git
 - Grant the necessary camera and microphone permissions.
 - Start the app and wait for a random video call request or initiate a video call.
 
+# Credits
+Inspiration from project strangers by @mianasadali1(github)
+
 # App Demo
 <div style="display: flex; justify-content: space-between;">
   <img src="app_design/1.png" alt="Image 1" style="width: 25%;">
