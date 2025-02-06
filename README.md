@@ -13,8 +13,6 @@ FaceLink is a random video calling app built using Java and XML, designed to con
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 # Installation
 
