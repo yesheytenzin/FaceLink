@@ -24,9 +24,8 @@ git clone https://github.com/yesheytenzin/FaceLink.git
 ```
 - Open the project in Android Studio.
 - Build and run the app on an Android emulator or physical device.
-``` bash
-# Note: Create your own firebase project in firebase console. enable realtime database and google auth. then download google-services.json and import it in your app directory
-```
+
+- Note: Create your own firebase project in firebase console. enable realtime database and google auth. then download google-services.json and import it in your app directory
 
 
 # Usage
