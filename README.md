@@ -19,9 +19,14 @@ FaceLink is a random video calling app built using Java and XML, designed to con
 Provide step-by-step instructions on how to install and set up your project locally. For example:
 
 - Clone the repository:
+```bash
 git clone https://github.com/yesheytenzin/FaceLink.git
+```
 - Open the project in Android Studio.
 - Build and run the app on an Android emulator or physical device.
+``` bash
+# Note: Create your own firebase account in firebase console and change the connection settings incase current config is expired
+```
 
 
 # Usage
@@ -29,4 +34,17 @@ git clone https://github.com/yesheytenzin/FaceLink.git
 - Grant the necessary camera and microphone permissions.
 - Start the app and wait for a random video call request or initiate a video call.
 
+``` ```
+# App Demo
+![Alt text](app_design/1.png)
+```     ```
+![Alt text](app_design/2.png)
+``` ```
+![Alt text](app_design/3.png)
+```     ```
 
+![Alt text](app_design/4.png)
+``` ```
+![Alt text](app_design/5.png)
+```     ```
+![Alt text](app_design/6.png)
